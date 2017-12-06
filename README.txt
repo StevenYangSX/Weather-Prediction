@@ -18,6 +18,9 @@ Please make sure that ALL INPUT IMAGES and WEATHER CSV FILES
 are UNZIPPED and in folers called, for instance, yvr-weather and test1.
 Then take these folder names as input arguments.
 
+Also, a Jupyter notebook file has been provided.
+You can run it step by step to check out what it 
+has done in the running time.
 
 
 Commond to run the code:    python3 project.py yvr-weather test1
