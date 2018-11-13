@@ -13,14 +13,7 @@ datetime
 dateutil
 scipy
 
-Please use commond to take input arugments.
-Please make sure that ALL INPUT IMAGES and WEATHER CSV FILES
-are UNZIPPED and in folers called, for instance, yvr-weather and test1.
-Then take these folder names as input arguments.
 
-Also, a Jupyter notebook file has been provided.
-You can run it step by step to check out what it 
-has done in the running time.
 
 
 Commond to run the code:    python3 project.py yvr-weather test1
@@ -28,6 +21,10 @@ Commond to run the code:    python3 project.py yvr-weather test1
 yvr-weather is the folder contains weather csv files
 test1 is the folder contains images.
 
+This project requires to use command to take input arguments to run. Please confirm that all input images and weather.csv files are unzipped and in folders called yvr-weather and test1 respectively.
+After setting this, take these folder names as input arguments.
+
+Also, a Jupyter notebook file is provided. User could run it step by step to check what has been done in running time.
 
 Be aware: Using all images(about 7000) will make a long executioin time.
 please wait for the outputs.
